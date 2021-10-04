@@ -18,5 +18,6 @@ Scripts for figures generation:
   - ToySimulation_SAR_Constraint.m (It allows generating a figure similar to [REF1, Fig.10]:   Average worst case RF energy at a set of 32 EH devices as a function of SAR constraint. 
 
 References:
+
 [REF1] - O. L. A. López, H. Alves, S. Montejo-Sánchez, R. D. Souza and M. Latva-aho, "CSI-free Rotary Antenna Beamforming for Massive RF Wireless Energy Transfer," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3107222.
 [REF2] - O. L. A. López, F. A. Monteiro, H. Alves, R. Zhang and M. Latva-aho, "A Low-Complexity Beamforming Design for Multiuser Wireless Energy Transfer," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2020.3020576.
